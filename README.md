@@ -4,16 +4,24 @@ This is a github repo for the Machine Learning 1 Final Project for the Universit
 
 In this repository, I have uploaded 5 Jupyter notebooks with experiments with 8 different algorithms. I also attached and a short report describing the models performance.
 
-I used 3 parametric classifiers: 
-Perceptron
-Logistic regression
-SVC
+I used 3 parametric classifiers:
+
+- Perceptron
+
+- Logistic regression
+
+- SVC
 
 2 non-parametric classifiers:
-KNN
-Decision Tree
+
+- KNN
+
+- Decision Tree
 
 and 3 ensemble methods:
-Voting classifier
-Bagging
-Random forests
+
+- Voting classifier
+
+- Bagging
+
+- Random forests
